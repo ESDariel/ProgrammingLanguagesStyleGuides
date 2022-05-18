@@ -1,8 +1,8 @@
-# ProgrammingLanguagesStyleGuides
+# Programming Languages Style Guides
 
 Programming Languages Style Guides from several sources.
 
-## Style Guides
+## Languages
 
 ### C&#35;
 
