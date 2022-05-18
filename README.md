@@ -10,7 +10,7 @@ Programming Languages Style Guides from several sources.
 
 ### C++
 
-* [C++ Core Guidelines - Naming and Layout Suggestions](https://github.com/isocpp/CppCoreGuidelines/blob/master/CppCoreGuidelines.md#S-naming){:target="_blank"}
+* <a href=https://github.com/isocpp/CppCoreGuidelines/blob/master/CppCoreGuidelines.md#S-naming target=blank>C++ Core Guidelines - Naming and Layout Suggestions</a>
 
 ### JavaScript
 
