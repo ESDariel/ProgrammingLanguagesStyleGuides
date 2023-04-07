@@ -1,6 +1,6 @@
 # Programming Languages Style Guides
 
-Programming Languages Style Guides from several sources.
+Programming Languages Style Guides from for studying purposes.
 
 ## Languages
 
