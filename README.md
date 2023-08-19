@@ -23,3 +23,7 @@ Programming Languages Style Guides from for studying purposes.
 ### Python
 
 * <a href="https://peps.python.org/pep-0008/" target="_blank">PEP 8 – Style Guide for Python Code</a>
+
+### Ruby 
+
+* <a href="https://github.com/rubocop/ruby-style-guide" target="_blank">RuboCop - Ruby Style Guide</a>
